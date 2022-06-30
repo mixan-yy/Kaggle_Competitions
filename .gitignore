@@ -1,1 +1,24 @@
 /Facial Keypoints Detection/data
+/home/popo/myProjects/Kaggle_Competitions/Tabular Playground Series/Jan 2022/data
+CareerCon 2019 - Help Navigate Robots/data
+/home/popo/myProjects/Kaggle_Competitions/Digit Recognizer/data
+Foursquare - Location Matching/data
+House Prices Prediction/data
+SpaceshipTitanic/data
+Tabular Playground Series/Jan 2022/data
+Tabular Playground Series/June 2022/data
+Tabular Playground Series/March 2021/data
+Titanic/data
+Tabular Playground Series/Sep 2021/data
+Digit Recognizer/data
+*.csv
+*.json
+*.log
+*.png
+*.tfevents
+*.tsv
+
+
+
+
+
